@@ -1,0 +1,19 @@
+{
+    "StockReport": [
+        {
+            "name": "TCS",
+            "No. of shares": "12",
+            "share price": "100"
+        },
+        {
+            "name": "Reliance",
+            "No. of shares": "30",
+            "share price": "150"
+        },
+        {
+            "name": "Adani",
+            "No. of shares": "200",
+            "share price": "35"
+        }
+    ]
+}
